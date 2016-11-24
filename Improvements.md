@@ -6,3 +6,4 @@
   * "Type providers"
   * Compiler topics" 
   * "Machine Learning and Data Science" 
+* Give people the option to express language preferences, if that matters, so that compatible people can be paired. That should also help for time zones.
